@@ -1,3 +1,5 @@
+# Socket Programming on python 
+
 Starting out server 
 
 ```
@@ -62,3 +64,6 @@ then the output is
 ```
 Out[3]: 'HTTP/1.0 200 OK\r\nServer: SimpleHTTP/0.6 Python/3.7.4\r\nDate: Sat, 14 Dec 2019 07:37:27 GMT\r\nContent-type: text/html; charset=utf-8\r\nContent-Length: 694\r\n\r\n<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">\n<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8">\n<title>Directory listing for /</title>\n</head>\n<body>\n<h1>Directory listing for /</h1>\n<hr>\n<ul>\n<li><a href=".git/">.git/</a></li>\n<li><a href=".idea/">.idea/</a></li>\n<li><a href="misc/">misc/</a></li>\n<li><a href="process_synchronization/">process_synchronization/</a></li>\n<li><a href="README.md">README.md</a></li>\n<li><a href="reconnaissance/">reconnaissance/</a></li>\n<li><a href="socket_dir/">socket_dir/</a></li>\n<li><a href="sorts/">sorts/</a></li>\n<li><a href="venv/">venv/</a></li>\n</ul>\n<hr>\n</body>\n</html>\n'
 ```
+
+Ref 
+- https://docs.python.org/2/library/socket.html
