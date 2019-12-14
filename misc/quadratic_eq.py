@@ -1,6 +1,6 @@
-#standard form of a quadratic equation is:
-#ax2 + bx + c = 0, where
-#a, b and c are real numbers and a not equal to  0
+# standard form of a quadratic equation is:
+# ax2 + bx + c = 0, where
+# a, b and c are real numbers and a not equal to  0
 
 # import complex math module
 import cmath
